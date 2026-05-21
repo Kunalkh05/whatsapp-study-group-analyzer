@@ -25,15 +25,15 @@ def detect_format(raw_text: str) -> str:
     # iPhone: [12/05/2024, 15:45:22] Ayush: ...
     # Android: 12/05/2024, 3:45 PM - Ayush: ...
     for line in lines:
-        line = line.strip()
+        line = line.strip().replace('\u200e', '').replace('\u200f', '')
         if not line:
             continue
         if line.startswith('[') and ']' in line:
             # Check if there is a date/time structure inside the brackets
             content = line[1:line.find(']')]
-            if ',' in content and ('/' in content or '-' in content):
+            if ',' in content and ('/' in content or '-' in content or '.' in content):
                 iphone_count += 1
-        elif re.match(r'^\d{1,2}/\d{1,2}/\d{2,4},', line):
+        elif re.match(r'^\d{1,2}[\/\-\.]\d{1,2}[\/\-\.]\d{2,4},', line):
             android_count += 1
             
     if iphone_count > android_count:
@@ -60,8 +60,10 @@ def parse_datetime(date_str: str, time_str: str) -> datetime:
     Raises:
         ValueError: If none of the formats match the datetime strings.
     """
+    # Standardize date separators to slashes
+    clean_date = date_str.replace('-', '/').replace('.', '/')
     # Combine clean strings
-    dt_str = f"{date_str.strip()} {time_str.strip()}"
+    dt_str = f"{clean_date.strip()} {time_str.strip()}"
     # Replace non-breaking spaces if any, and clean whitespace
     dt_str = re.sub(r'\s+', ' ', dt_str).replace('\u202f', ' ').replace('\u200e', '').replace('\u200f', '')
     
@@ -138,15 +140,14 @@ def parse_chat(file_path: str) -> list[dict]:
     chat_format = detect_format(raw_text)
     messages = []
     
-    # Regex definitions for message splits
-    # Android format: 12/05/2024, 3:45 PM - Sender: Message
+    # Regex definitions for message splits supporting diverse date separators (/, -, .) 
+    # and diverse timestamp-to-sender separators (hyphen -, en-dash –, or colon :)
     android_pattern = re.compile(
-        r'^(\d{1,2}/\d{1,2}/\d{2,4}),\s*(\d{1,2}:\d{2}(?::\d{2})?(?:\s*(?:AM|PM|am|pm|a\.m\.|p\.m\.))?)\s*-\s*(.*)$'
+        r'^(\d{1,2}[\/\-\.]\d{1,2}[\/\-\.]\d{2,4}),\s*(\d{1,2}:\d{2}(?::\d{2})?(?:\s*(?:AM|PM|am|pm|a\.m\.|p\.m\.))?)\s*[\-–:]\s*(.*)$'
     )
     
-    # iPhone format: [12/05/2024, 15:45:22] Sender: Message
     iphone_pattern = re.compile(
-        r'^\[(\d{1,2}/\d{1,2}/\d{2,4}),\s*(\d{1,2}:\d{2}(?::\d{2})?(?:\s*(?:AM|PM|am|pm|a\.m\.|p\.m\.))?)\]\s*(.*)$'
+        r'^\[(\d{1,2}[\/\-\.]\d{1,2}[\/\-\.]\d{2,4}),\s*(\d{1,2}:\d{2}(?::\d{2})?(?:\s*(?:AM|PM|am|pm|a\.m\.|p\.m\.))?)\]\s*(.*)$'
     )
     
     # System patterns/phrases that indicate non-user messages
@@ -170,7 +171,8 @@ def parse_chat(file_path: str) -> list[dict]:
     current_msg = None
     
     for line in lines:
-        line_stripped = line.strip()
+        # Remove hidden Unicode Left-to-Right and Right-to-Left marks common in exports
+        line_stripped = line.strip().replace('\u200e', '').replace('\u200f', '')
         # Skip empty lines that are not part of an ongoing multi-line message
         if not line_stripped and not current_msg:
             continue

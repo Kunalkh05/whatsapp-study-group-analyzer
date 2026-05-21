@@ -1,0 +1,512 @@
+15/04/26, 8:22 am - Aditi: What are the core topics we need to prepare for the viva tomorrow?
+15/04/26, 8:25 am - Ayush: Hey Aditi, about your question on tomorrow: I solved it. You just need to use the standard derivative formula.
+15/04/26, 10:51 am - Ayush: The exam syllabus covers Chapters 1 to 5. Make sure to study the proofs.
+15/04/26, 2:44 pm - Kunal: Let's just ask Ayush to explain everything in 10 minutes before the paper.
+15/04/26, 3:43 pm - Rohan: Haha true, that lecture was so boring I almost fell asleep.
+15/04/26, 3:43 pm - Rohan: Here is the lecture link for today's class: meet.google.com/abc-defg-hij
+15/04/26, 3:59 pm - Pooja: Good night guys.
+15/04/26, 7:42 pm - Aditi: Thanks for the notes, Ayush. This is extremely helpful.
+15/04/26, 7:44 pm - Ayush: Hey Aditi, about your question on helpful.: I solved it. You just need to use the standard derivative formula.
+15/04/26, 9:29 pm - Aditi: I am confused about the recursive relation in chapter 3. Can someone help?
+15/04/26, 9:35 pm - Ayush: Hey Aditi, about your question on help: I solved it. You just need to use the standard derivative formula.
+15/04/26, 9:43 pm - Ayush: Here is the PDF containing the past 5 years' question papers for our midterm.
+16/04/26, 9:28 am - Kunal: Yaar, let's skip the next lecture and hang out at the cafe.
+16/04/26, 10:07 am - Ayush: No problem, glad to help! Let me know if you face any more issues.
+16/04/26, 11:09 am - Rohan: Let's plan a trip after these exams are finally over.
+16/04/26, 11:14 am - Aditi: Has the professor shared the lecture slides for neural networks yet?
+16/04/26, 11:14 am - Aditi: What are the core topics we need to prepare for the viva tomorrow?
+16/04/26, 11:17 am - Ayush: Hey Aditi, about your question on yet: I solved it. You just need to use the standard derivative formula.
+16/04/26, 11:22 am - Ayush: Hey Aditi, about your question on tomorrow: I solved it. You just need to use the standard derivative formula.
+16/04/26, 3:29 pm - Kunal: Hey, when is the syllabus going to be completed? I am struggling.
+16/04/26, 4:45 pm - Ayush: I have uploaded the laboratory viva questions sheet on the shared drive.
+16/04/26, 5:46 pm - Pooja: Good night guys.
+16/04/26, 6:55 pm - Kunal: Lol, I haven't even opened the book yet. I'm going to fail so bad.
+16/04/26, 8:32 pm - Pooja: Ok, thank you.
+16/04/26, 8:35 pm - Ayush: I resolved the doubt regarding the lab practical submission. The deadline is extended to Friday.
+16/04/26, 9:36 pm - Ayush: Here is a summary of the key definitions for the viva.
+16/04/26, 10:27 pm - Ayush: No problem, glad to help! Let me know if you face any more issues.
+16/04/26, 10:56 pm - Kunal: Yaar, this subject is so dry. I can't study this theoretical stuff.
+17/04/26, 8:14 am - Rohan: The submission deadline has been updated to next Monday. Check the portal.
+17/04/26, 8:24 am - Kunal: Chill guys, we have plenty of time. The exam is still 2 weeks away.
+17/04/26, 9:55 am - Ayush: I have uploaded the laboratory viva questions sheet on the shared drive.
+17/04/26, 10:50 am - Rohan: Here is the lecture link for today's class: meet.google.com/abc-defg-hij
+17/04/26, 12:03 pm - Ayush: For question 4 on the assignment, you need to apply the Bayes theorem.
+17/04/26, 12:55 pm - Kunal: Lol, I am just going to write random things in the viva.
+17/04/26, 2:45 pm - Aditi: Thanks for the notes, Ayush. This is extremely helpful.
+17/04/26, 2:49 pm - Ayush: Hey Aditi, about your question on helpful.: I solved it. You just need to use the standard derivative formula.
+17/04/26, 2:57 pm - Aditi: Thanks for the notes, Ayush. This is extremely helpful.
+17/04/26, 3:05 pm - Ayush: Hey Aditi, about your question on helpful.: I solved it. You just need to use the standard derivative formula.
+17/04/26, 6:02 pm - Rohan: I just finished writing the lab practical code. I'll share the GitHub link.
+17/04/26, 6:10 pm - Rohan: Let's create a shared folder to compile all our project presentations.
+17/04/26, 7:11 pm - Kunal: Yaar, this subject is so dry. I can't study this theoretical stuff.
+17/04/26, 9:04 pm - Pooja: Ok, thank you.
+17/04/26, 10:15 pm - Ayush: For the project presentation, we should focus on the system block diagram.
+17/04/26, 10:48 pm - Rohan: The professor sent the classroom link on mail. Let me paste it here.
+18/04/26, 8:35 am - Kunal: Chill guys, we have plenty of time. The exam is still 2 weeks away.
+18/04/26, 9:37 am - Ayush: The exam syllabus covers Chapters 1 to 5. Make sure to study the proofs.
+18/04/26, 9:45 am - Ayush: I will host a local zoom session tonight at 8 PM to revise the database topics.
+18/04/26, 11:45 am - Ayush: I have uploaded the laboratory viva questions sheet on the shared drive.
+18/04/26, 12:04 pm - Ayush: The exam syllabus covers Chapters 1 to 5. Make sure to study the proofs.
+18/04/26, 12:58 pm - Rohan: Here is the lecture link for today's class: meet.google.com/abc-defg-hij
+18/04/26, 1:24 pm - Kunal: Lmao, same here. Zero preparation done.
+18/04/26, 2:30 pm - Aditi: Thanks for the notes, Ayush. This is extremely helpful.
+18/04/26, 2:37 pm - Ayush: Hey Aditi, about your question on helpful.: I solved it. You just need to use the standard derivative formula.
+18/04/26, 2:48 pm - Kunal: Bro, let's party tonight. It's Friday!
+18/04/26, 3:01 pm - Rohan: Bhai, who has a spare charger today? Mine stopped working.
+18/04/26, 5:18 pm - Ayush: The professor said Unit 2 is extremely important for the final paper.
+18/04/26, 6:34 pm - Kunal: Yaar, this subject is so dry. I can't study this theoretical stuff.
+18/04/26, 8:37 pm - Rohan: Here is the PDF for the unit 1 reference material.
+18/04/26, 8:49 pm - Kunal: Lol, I haven't even opened the book yet. I'm going to fail so bad.
+18/04/26, 9:43 pm - Rohan: The submission deadline has been updated to next Monday. Check the portal.
+18/04/26, 11:31 pm - Aditi: Is the unit test online or offline?
+18/04/26, 11:34 pm - Ayush: Hey Aditi, about your question on offline: I solved it. You just need to use the standard derivative formula.
+19/04/26, 9:35 am - Ayush: For question 4 on the assignment, you need to apply the Bayes theorem.
+19/04/26, 10:43 am - Aditi: Is there a lecture scheduled for today or is it a holiday?
+19/04/26, 10:49 am - Ayush: Hey Aditi, about your question on holiday: I solved it. You just need to use the standard derivative formula.
+19/04/26, 10:57 am - Ayush: Guys, here are my handwritten notes for Unit 3. Let me know if you need help.
+19/04/26, 11:37 am - Rohan: The professor sent the classroom link on mail. Let me paste it here.
+19/04/26, 12:43 pm - Ayush: Yes, the lecture slide 14 explains this algorithm step-by-step.
+19/04/26, 1:06 pm - Pooja: Ok, thank you.
+19/04/26, 2:51 pm - Kunal: Bro, let's party tonight. It's Friday!
+19/04/26, 5:09 pm - Ayush: The exam syllabus covers Chapters 1 to 5. Make sure to study the proofs.
+19/04/26, 5:53 pm - Aditi: Thanks for the notes, Ayush. This is extremely helpful.
+19/04/26, 6:00 pm - Ayush: Hey Aditi, about your question on helpful.: I solved it. You just need to use the standard derivative formula.
+19/04/26, 7:13 pm - Rohan: Here are the marks for the internal assessment. Check your roll number.
+19/04/26, 7:25 pm - Ayush: Here is the PDF containing the past 5 years' question papers for our midterm.
+19/04/26, 8:45 pm - Rohan: Here are the marks for the internal assessment. Check your roll number.
+19/04/26, 9:08 pm - Ayush: I will host a local zoom session tonight at 8 PM to revise the database topics.
+19/04/26, 11:59 pm - Ayush: Here is a summary of the key definitions for the viva.
+20/04/26, 8:00 am - Ayush: For the project presentation, we should focus on the system block diagram.
+20/04/26, 9:12 am - Ayush: No problem, glad to help! Let me know if you face any more issues.
+20/04/26, 10:03 am - Ayush: Don't worry, the exam scheduling is verified. It starts at 10 AM on Monday.
+20/04/26, 12:24 pm - Rohan: Let's take a break, this syllabus is way too heavy.
+20/04/26, 1:58 pm - Pooja: I will join.
+20/04/26, 2:03 pm - Pooja: Ok, noted.
+20/04/26, 2:10 pm - Aditi: When is the final submission date for the laboratory report?
+20/04/26, 2:12 pm - Ayush: Hey Aditi, about your question on report: I solved it. You just need to use the standard derivative formula.
+20/04/26, 2:55 pm - Rohan: Here is the lecture link for today's class: meet.google.com/abc-defg-hij
+20/04/26, 3:45 pm - Ayush: For question 4 on the assignment, you need to apply the Bayes theorem.
+20/04/26, 4:07 pm - Ayush: Don't worry, the exam scheduling is verified. It starts at 10 AM on Monday.
+20/04/26, 4:07 pm - Kunal: Let's just ask Ayush to explain everything in 10 minutes before the paper.
+20/04/26, 6:18 pm - Ayush: For the project presentation, we should focus on the system block diagram.
+20/04/26, 8:20 pm - Rohan: The exam syllabus was trimmed. Chapter 5 is no longer included.
+20/04/26, 9:02 pm - Aditi: Do we need to write the code in python or C++ for the submission?
+20/04/26, 9:10 pm - Ayush: Hey Aditi, about your question on submission: I solved it. You just need to use the standard derivative formula.
+20/04/26, 11:26 pm - Kunal: Canteen today? Let's eat some samosas.
+21/04/26, 8:48 am - Pooja: Good morning everyone!
+21/04/26, 9:45 am - Rohan: Let's create a shared folder to compile all our project presentations.
+21/04/26, 12:07 pm - Rohan: Let's meet up in the library before the lecture.
+21/04/26, 12:28 pm - Kunal: Hey, when is the syllabus going to be completed? I am struggling.
+21/04/26, 12:41 pm - Rohan: The professor sent the classroom link on mail. Let me paste it here.
+21/04/26, 2:27 pm - Ayush: For the project presentation, we should focus on the system block diagram.
+21/04/26, 4:19 pm - Kunal: Lol, I haven't even opened the book yet. I'm going to fail so bad.
+21/04/26, 5:59 pm - Aditi: Does anyone have the textbook PDF for the database system course?
+21/04/26, 6:07 pm - Ayush: Hey Aditi, about your question on course: I solved it. You just need to use the standard derivative formula.
+21/04/26, 6:30 pm - Aditi: When is the final submission date for the laboratory report?
+21/04/26, 6:38 pm - Ayush: Hey Aditi, about your question on report: I solved it. You just need to use the standard derivative formula.
+21/04/26, 6:43 pm - Pooja: Ok, noted.
+21/04/26, 7:52 pm - Aditi: Does anyone have the textbook PDF for the database system course?
+21/04/26, 7:54 pm - Ayush: Hey Aditi, about your question on course: I solved it. You just need to use the standard derivative formula.
+21/04/26, 10:43 pm - Aditi: Has the professor shared the lecture slides for neural networks yet?
+21/04/26, 10:47 pm - Ayush: Hey Aditi, about your question on yet: I solved it. You just need to use the standard derivative formula.
+22/04/26, 9:42 am - Ayush: No problem, glad to help! Let me know if you face any more issues.
+22/04/26, 9:48 am - Rohan: Bhai, anyone going to the college canteen right now? I'm starving.
+22/04/26, 10:26 am - Rohan: Here are the marks for the internal assessment. Check your roll number.
+22/04/26, 11:05 am - Pooja: Ok, noted.
+22/04/26, 12:29 pm - Rohan: The professor sent the classroom link on mail. Let me paste it here.
+22/04/26, 1:47 pm - Rohan: I can help with the practical setup after lunch if anyone is stuck.
+22/04/26, 2:22 pm - Pooja: Thanks Ayush!
+22/04/26, 2:36 pm - Pooja: Good morning everyone!
+22/04/26, 5:29 pm - Kunal: Bro, let's play Valorant tonight. Padhai can wait, chill.
+22/04/26, 5:33 pm - Rohan: Count me in bhai! I'll join the lobby by 9:30 PM.
+22/04/26, 6:58 pm - Kunal: Canteen today? Let's eat some samosas.
+22/04/26, 7:18 pm - Pooja: Yes, I will submit it.
+22/04/26, 8:12 pm - Rohan: I just finished writing the lab practical code. I'll share the GitHub link.
+22/04/26, 8:43 pm - Rohan: Here is the lecture link for today's class: meet.google.com/abc-defg-hij
+22/04/26, 9:37 pm - Kunal: Lol, I haven't even opened the book yet. I'm going to fail so bad.
+22/04/26, 10:27 pm - Pooja: Good night guys.
+22/04/26, 11:08 pm - Ayush: Let's cover the neural network architecture today. It's a guaranteed 10-mark question.
+23/04/26, 8:12 am - Kunal: Hahaha, that meme about the professor is hilarious!
+23/04/26, 10:41 am - Kunal: Yaar, this subject is so dry. I can't study this theoretical stuff.
+23/04/26, 11:23 am - Aditi: When is the final submission date for the laboratory report?
+23/04/26, 11:29 am - Ayush: Hey Aditi, about your question on report: I solved it. You just need to use the standard derivative formula.
+23/04/26, 12:05 pm - Ayush: No problem, glad to help! Let me know if you face any more issues.
+23/04/26, 1:20 pm - Rohan: Let's meet up in the library before the lecture.
+23/04/26, 2:06 pm - Pooja: Thanks Rohan.
+23/04/26, 2:10 pm - Pooja: I will join.
+23/04/26, 2:39 pm - Ayush: The exam syllabus covers Chapters 1 to 5. Make sure to study the proofs.
+23/04/26, 2:52 pm - Rohan: Let's create a shared folder to compile all our project presentations.
+23/04/26, 3:46 pm - Rohan: I can help with the practical setup after lunch if anyone is stuck.
+23/04/26, 6:06 pm - Ayush: Yes, the lecture slide 14 explains this algorithm step-by-step.
+23/04/26, 7:12 pm - Pooja: I will join.
+23/04/26, 8:16 pm - Ayush: No problem, glad to help! Let me know if you face any more issues.
+23/04/26, 8:43 pm - Rohan: Let's take a break, this syllabus is way too heavy.
+23/04/26, 9:41 pm - Kunal: Bro, let's play Valorant tonight. Padhai can wait, chill.
+23/04/26, 9:44 pm - Rohan: Count me in bhai! I'll join the lobby by 9:30 PM.
+23/04/26, 11:21 pm - Rohan: Let's take a break, this syllabus is way too heavy.
+24/04/26, 8:59 am - Ayush: No problem, glad to help! Let me know if you face any more issues.
+24/04/26, 9:20 am - Ayush: I have uploaded the laboratory viva questions sheet on the shared drive.
+24/04/26, 10:10 am - Kunal: Lol, I am just going to write random things in the viva.
+24/04/26, 11:32 am - Kunal: Lmao, same here. Zero preparation done.
+24/04/26, 12:35 pm - Ayush: Here is the PDF containing the past 5 years' question papers for our midterm.
+24/04/26, 1:22 pm - Rohan: Here is the PDF for the unit 1 reference material.
+24/04/26, 3:35 pm - Rohan: Let's take a break, this syllabus is way too heavy.
+24/04/26, 5:03 pm - Aditi: Does anyone have the textbook PDF for the database system course?
+24/04/26, 5:06 pm - Ayush: The assignment submission portal is now active on the university website.
+24/04/26, 5:09 pm - Ayush: Hey Aditi, about your question on course: I solved it. You just need to use the standard derivative formula.
+24/04/26, 7:48 pm - Rohan: Did anyone watch the new movie? It's amazing.
+24/04/26, 8:37 pm - Ayush: I have uploaded the laboratory viva questions sheet on the shared drive.
+24/04/26, 8:58 pm - Rohan: The professor sent the classroom link on mail. Let me paste it here.
+24/04/26, 9:24 pm - Ayush: The assignment submission portal is now active on the university website.
+24/04/26, 9:25 pm - Aditi: Can anyone share the link to join the classroom?
+24/04/26, 9:28 pm - Ayush: Hey Aditi, about your question on classroom: I solved it. You just need to use the standard derivative formula.
+25/04/26, 8:40 am - Aditi: Do we need to write the code in python or C++ for the submission?
+25/04/26, 8:48 am - Ayush: Hey Aditi, about your question on submission: I solved it. You just need to use the standard derivative formula.
+25/04/26, 9:09 am - Ayush: No problem, glad to help! Let me know if you face any more issues.
+25/04/26, 12:37 pm - Aditi: Thanks for the notes, Ayush. This is extremely helpful.
+25/04/26, 12:42 pm - Ayush: Hey Aditi, about your question on helpful.: I solved it. You just need to use the standard derivative formula.
+25/04/26, 2:02 pm - Pooja: I will join.
+25/04/26, 2:34 pm - Pooja: Yes, correct.
+25/04/26, 2:52 pm - Rohan: Haha true, that lecture was so boring I almost fell asleep.
+25/04/26, 3:05 pm - Ayush: The professor said Unit 2 is extremely important for the final paper.
+25/04/26, 3:19 pm - Kunal: Canteen today? Let's eat some samosas.
+25/04/26, 3:35 pm - Aditi: What are the core topics we need to prepare for the viva tomorrow?
+25/04/26, 3:41 pm - Ayush: Hey Aditi, about your question on tomorrow: I solved it. You just need to use the standard derivative formula.
+25/04/26, 4:41 pm - Ayush: Yes, that formula is correct! Just make sure to normalize the input values.
+25/04/26, 6:11 pm - Ayush: Guys, here are my handwritten notes for Unit 3. Let me know if you need help.
+25/04/26, 9:44 pm - Aditi: What are the core topics we need to prepare for the viva tomorrow?
+25/04/26, 9:48 pm - Ayush: Hey Aditi, about your question on tomorrow: I solved it. You just need to use the standard derivative formula.
+26/04/26, 8:06 am - Rohan: Bhai, who has a spare charger today? Mine stopped working.
+26/04/26, 8:52 am - Kunal: Canteen today? Let's eat some samosas.
+26/04/26, 10:28 am - Kunal: Hey, when is the syllabus going to be completed? I am struggling.
+26/04/26, 12:47 pm - Aditi: Thanks for the notes, Ayush. This is extremely helpful.
+26/04/26, 12:52 pm - Rohan: Did anyone watch the new movie? It's amazing.
+26/04/26, 12:54 pm - Ayush: Hey Aditi, about your question on helpful.: I solved it. You just need to use the standard derivative formula.
+26/04/26, 1:04 pm - Ayush: The assignment submission portal is now active on the university website.
+26/04/26, 1:42 pm - Rohan: Here is the lecture link for today's class: meet.google.com/abc-defg-hij
+26/04/26, 2:48 pm - Pooja: Good night guys.
+26/04/26, 5:29 pm - Rohan: The professor sent the classroom link on mail. Let me paste it here.
+26/04/26, 6:01 pm - Kunal: Canteen today? Let's eat some samosas.
+26/04/26, 7:32 pm - Rohan: Haha true, that lecture was so boring I almost fell asleep.
+26/04/26, 8:04 pm - Rohan: The exam syllabus was trimmed. Chapter 5 is no longer included.
+26/04/26, 8:07 pm - Kunal: Bro, let's play Valorant tonight. Padhai can wait, chill.
+26/04/26, 8:09 pm - Rohan: Count me in bhai! I'll join the lobby by 9:30 PM.
+26/04/26, 8:34 pm - Ayush: The assignment submission portal is now active on the university website.
+26/04/26, 11:50 pm - Aditi: Does anyone have the textbook PDF for the database system course?
+26/04/26, 11:55 pm - Ayush: Hey Aditi, about your question on course: I solved it. You just need to use the standard derivative formula.
+27/04/26, 9:16 am - Aditi: Does anyone have the textbook PDF for the database system course?
+27/04/26, 9:23 am - Ayush: Hey Aditi, about your question on course: I solved it. You just need to use the standard derivative formula.
+27/04/26, 9:59 am - Kunal: Who is up for a gaming session?
+27/04/26, 10:28 am - Kunal: Hey, when is the syllabus going to be completed? I am struggling.
+27/04/26, 12:19 pm - Aditi: Does anyone have the textbook PDF for the database system course?
+27/04/26, 12:21 pm - Ayush: Hey Aditi, about your question on course: I solved it. You just need to use the standard derivative formula.
+27/04/26, 1:08 pm - Aditi: Can anyone share the link to join the classroom?
+27/04/26, 1:11 pm - Ayush: Hey Aditi, about your question on classroom: I solved it. You just need to use the standard derivative formula.
+27/04/26, 2:45 pm - Aditi: Does anyone have the textbook PDF for the database system course?
+27/04/26, 2:51 pm - Ayush: Hey Aditi, about your question on course: I solved it. You just need to use the standard derivative formula.
+27/04/26, 7:14 pm - Aditi: When is the final submission date for the laboratory report?
+27/04/26, 7:21 pm - Ayush: Hey Aditi, about your question on report: I solved it. You just need to use the standard derivative formula.
+27/04/26, 8:09 pm - Kunal: Bro, let's play Valorant tonight. Padhai can wait, chill.
+27/04/26, 8:14 pm - Rohan: Count me in bhai! I'll join the lobby by 9:30 PM.
+27/04/26, 8:39 pm - Aditi: Can anyone share the link to join the classroom?
+27/04/26, 8:45 pm - Ayush: Hey Aditi, about your question on classroom: I solved it. You just need to use the standard derivative formula.
+28/04/26, 2:47 am - Pooja: I will join.
+28/04/26, 2:54 am - Ayush: Yes, the lecture slide 14 explains this algorithm step-by-step.
+28/04/26, 4:39 am - Rohan: I can help with the practical setup after lunch if anyone is stuck.
+28/04/26, 6:00 am - Aditi: How many marks is the practical assignment worth?
+28/04/26, 6:07 am - Ayush: Hey Aditi, about your question on worth: I solved it. You just need to use the standard derivative formula.
+28/04/26, 6:27 am - Ayush: The assignment submission portal is now active on the university website.
+28/04/26, 10:53 am - Rohan: The submission deadline has been updated to next Monday. Check the portal.
+28/04/26, 11:26 am - Kunal: Lol, I am just going to write random things in the viva.
+28/04/26, 12:36 pm - Ayush: Here is a summary of the key definitions for the viva.
+28/04/26, 12:47 pm - Rohan: Haha true, that lecture was so boring I almost fell asleep.
+28/04/26, 2:56 pm - Pooja: Ok, thank you.
+28/04/26, 4:46 pm - Pooja: Ok, noted.
+28/04/26, 6:53 pm - Aditi: Thanks for the notes, Ayush. This is extremely helpful.
+28/04/26, 6:55 pm - Ayush: Hey Aditi, about your question on helpful.: I solved it. You just need to use the standard derivative formula.
+28/04/26, 8:18 pm - Ayush: The assignment submission portal is now active on the university website.
+28/04/26, 9:15 pm - Aditi: Has the professor shared the lecture slides for neural networks yet?
+28/04/26, 9:19 pm - Ayush: Hey Aditi, about your question on yet: I solved it. You just need to use the standard derivative formula.
+29/04/26, 8:14 am - Kunal: Lol, I haven't even opened the book yet. I'm going to fail so bad.
+29/04/26, 9:17 am - Ayush: Let's cover the neural network architecture today. It's a guaranteed 10-mark question.
+29/04/26, 11:42 am - Kunal: Let's just ask Ayush to explain everything in 10 minutes before the paper.
+29/04/26, 12:03 pm - Ayush: No problem, glad to help! Let me know if you face any more issues.
+29/04/26, 1:19 pm - Aditi: When is the final submission date for the laboratory report?
+29/04/26, 1:25 pm - Ayush: Hey Aditi, about your question on report: I solved it. You just need to use the standard derivative formula.
+29/04/26, 1:42 pm - Ayush: No problem, glad to help! Let me know if you face any more issues.
+29/04/26, 1:57 pm - Kunal: Who is up for a gaming session?
+29/04/26, 3:13 pm - Pooja: Yes, I will submit it.
+29/04/26, 4:37 pm - Rohan: The professor sent the classroom link on mail. Let me paste it here.
+29/04/26, 5:37 pm - Ayush: For question 4 on the assignment, you need to apply the Bayes theorem.
+29/04/26, 8:21 pm - Kunal: Who is up for a gaming session?
+29/04/26, 8:27 pm - Ayush: The professor said Unit 2 is extremely important for the final paper.
+29/04/26, 8:35 pm - Kunal: Lmao, same here. Zero preparation done.
+29/04/26, 9:45 pm - Kunal: Canteen today? Let's eat some samosas.
+29/04/26, 11:59 pm - Aditi: Can anyone explain how to solve question 2 from the Unit 4 practice sheet?
+30/04/26, 12:05 am - Ayush: Hey Aditi, about your question on sheet: I solved it. You just need to use the standard derivative formula.
+30/04/26, 10:42 am - Aditi: What are the core topics we need to prepare for the viva tomorrow?
+30/04/26, 10:48 am - Ayush: Hey Aditi, about your question on tomorrow: I solved it. You just need to use the standard derivative formula.
+30/04/26, 10:53 am - Aditi: I am confused about the recursive relation in chapter 3. Can someone help?
+30/04/26, 10:58 am - Ayush: Hey Aditi, about your question on help: I solved it. You just need to use the standard derivative formula.
+30/04/26, 11:04 am - Ayush: Yes, the lecture slide 14 explains this algorithm step-by-step.
+30/04/26, 2:03 pm - Ayush: Yes, the lecture slide 14 explains this algorithm step-by-step.
+30/04/26, 4:09 pm - Rohan: Did anyone watch the new movie? It's amazing.
+30/04/26, 4:49 pm - Ayush: The exam syllabus covers Chapters 1 to 5. Make sure to study the proofs.
+30/04/26, 6:02 pm - Rohan: Bhai, who has a spare charger today? Mine stopped working.
+30/04/26, 7:24 pm - Rohan: Let's plan a trip after these exams are finally over.
+30/04/26, 8:41 pm - Ayush: Let's cover the neural network architecture today. It's a guaranteed 10-mark question.
+30/04/26, 9:29 pm - Rohan: Here is the PDF for the unit 1 reference material.
+30/04/26, 9:44 pm - Rohan: Let's create a shared folder to compile all our project presentations.
+30/04/26, 10:23 pm - Ayush: The assignment submission portal is now active on the university website.
+30/04/26, 10:48 pm - Aditi: Thanks for the notes, Ayush. This is extremely helpful.
+30/04/26, 10:50 pm - Ayush: Hey Aditi, about your question on helpful.: I solved it. You just need to use the standard derivative formula.
+01/05/26, 9:29 am - Kunal: Hahaha, that meme about the professor is hilarious!
+01/05/26, 11:01 am - Ayush: For the project presentation, we should focus on the system block diagram.
+01/05/26, 11:36 am - Ayush: No problem, glad to help! Let me know if you face any more issues.
+01/05/26, 2:12 pm - Aditi: When is the final submission date for the laboratory report?
+01/05/26, 2:20 pm - Ayush: Hey Aditi, about your question on report: I solved it. You just need to use the standard derivative formula.
+01/05/26, 2:39 pm - Kunal: Hey, when is the syllabus going to be completed? I am struggling.
+01/05/26, 2:49 pm - Ayush: Let's cover the neural network architecture today. It's a guaranteed 10-mark question.
+01/05/26, 3:23 pm - Aditi: Thanks for the notes, Ayush. This is extremely helpful.
+01/05/26, 3:29 pm - Ayush: Hey Aditi, about your question on helpful.: I solved it. You just need to use the standard derivative formula.
+01/05/26, 5:19 pm - Pooja: Thanks Rohan.
+01/05/26, 5:52 pm - Rohan: I just finished writing the lab practical code. I'll share the GitHub link.
+01/05/26, 8:28 pm - Ayush: No problem, glad to help! Let me know if you face any more issues.
+01/05/26, 9:07 pm - Kunal: Bro, let's play Valorant tonight. Padhai can wait, chill.
+01/05/26, 9:09 pm - Rohan: Count me in bhai! I'll join the lobby by 9:30 PM.
+01/05/26, 9:42 pm - Kunal: Let's just ask Ayush to explain everything in 10 minutes before the paper.
+01/05/26, 10:09 pm - Ayush: Let's cover the neural network architecture today. It's a guaranteed 10-mark question.
+01/05/26, 10:23 pm - Aditi: Thanks for the notes, Ayush. This is extremely helpful.
+01/05/26, 10:28 pm - Ayush: Hey Aditi, about your question on helpful.: I solved it. You just need to use the standard derivative formula.
+02/05/26, 8:42 am - Rohan: Let's create a shared folder to compile all our project presentations.
+02/05/26, 9:35 am - Ayush: Don't worry, the exam scheduling is verified. It starts at 10 AM on Monday.
+02/05/26, 10:21 am - Aditi: Is there a lecture scheduled for today or is it a holiday?
+02/05/26, 10:27 am - Ayush: Hey Aditi, about your question on holiday: I solved it. You just need to use the standard derivative formula.
+02/05/26, 12:09 pm - Kunal: Wait, we had a submission today? Omg I totally forgot!
+02/05/26, 12:46 pm - Kunal: Hahaha, that meme about the professor is hilarious!
+02/05/26, 1:59 pm - Ayush: I will host a local zoom session tonight at 8 PM to revise the database topics.
+02/05/26, 3:02 pm - Ayush: Let's cover the neural network architecture today. It's a guaranteed 10-mark question.
+02/05/26, 4:08 pm - Ayush: The exam syllabus covers Chapters 1 to 5. Make sure to study the proofs.
+02/05/26, 6:43 pm - Kunal: Bro, let's party tonight. It's Friday!
+02/05/26, 6:43 pm - Ayush: For the project presentation, we should focus on the system block diagram.
+02/05/26, 7:21 pm - Rohan: Here are the marks for the internal assessment. Check your roll number.
+02/05/26, 9:19 pm - Aditi: What are the core topics we need to prepare for the viva tomorrow?
+02/05/26, 9:26 pm - Ayush: Hey Aditi, about your question on tomorrow: I solved it. You just need to use the standard derivative formula.
+02/05/26, 10:01 pm - Aditi: I am confused about the recursive relation in chapter 3. Can someone help?
+02/05/26, 10:04 pm - Ayush: Hey Aditi, about your question on help: I solved it. You just need to use the standard derivative formula.
+02/05/26, 11:22 pm - Rohan: The exam syllabus was trimmed. Chapter 5 is no longer included.
+03/05/26, 10:27 am - Rohan: Bhai, anyone going to the college canteen right now? I'm starving.
+03/05/26, 11:20 am - Rohan: The professor sent the classroom link on mail. Let me paste it here.
+03/05/26, 1:47 pm - Ayush: Don't worry, the exam scheduling is verified. It starts at 10 AM on Monday.
+03/05/26, 2:02 pm - Kunal: Yaar, this subject is so dry. I can't study this theoretical stuff.
+03/05/26, 2:51 pm - Kunal: Bro, let's play Valorant tonight. Padhai can wait, chill.
+03/05/26, 2:56 pm - Rohan: Count me in bhai! I'll join the lobby by 9:30 PM.
+03/05/26, 3:23 pm - Rohan: Bhai, anyone going to the college canteen right now? I'm starving.
+03/05/26, 3:53 pm - Ayush: No problem, glad to help! Let me know if you face any more issues.
+03/05/26, 4:15 pm - Rohan: The exam syllabus was trimmed. Chapter 5 is no longer included.
+03/05/26, 6:05 pm - Rohan: The submission deadline has been updated to next Monday. Check the portal.
+03/05/26, 6:21 pm - Aditi: Is the unit test online or offline?
+03/05/26, 6:29 pm - Ayush: Hey Aditi, about your question on offline: I solved it. You just need to use the standard derivative formula.
+03/05/26, 6:33 pm - Pooja: I will join.
+03/05/26, 10:28 pm - Pooja: Ok, noted.
+03/05/26, 11:07 pm - Ayush: The assignment submission portal is now active on the university website.
+04/05/26, 9:04 am - Ayush: I have uploaded the laboratory viva questions sheet on the shared drive.
+04/05/26, 9:47 am - Kunal: Chill guys, we have plenty of time. The exam is still 2 weeks away.
+04/05/26, 10:46 am - Ayush: Here is the PDF containing the past 5 years' question papers for our midterm.
+04/05/26, 12:43 pm - Ayush: The professor said Unit 2 is extremely important for the final paper.
+04/05/26, 1:24 pm - Aditi: Do we need to write the code in python or C++ for the submission?
+04/05/26, 1:29 pm - Ayush: Hey Aditi, about your question on submission: I solved it. You just need to use the standard derivative formula.
+04/05/26, 3:07 pm - Aditi: Has the professor shared the lecture slides for neural networks yet?
+04/05/26, 3:14 pm - Ayush: Hey Aditi, about your question on yet: I solved it. You just need to use the standard derivative formula.
+04/05/26, 3:51 pm - Aditi: I am confused about the recursive relation in chapter 3. Can someone help?
+04/05/26, 3:59 pm - Ayush: Hey Aditi, about your question on help: I solved it. You just need to use the standard derivative formula.
+04/05/26, 4:42 pm - Aditi: Can anyone share the link to join the classroom?
+04/05/26, 4:50 pm - Ayush: Hey Aditi, about your question on classroom: I solved it. You just need to use the standard derivative formula.
+04/05/26, 4:58 pm - Ayush: The professor said Unit 2 is extremely important for the final paper.
+04/05/26, 6:47 pm - Ayush: Yes, that formula is correct! Just make sure to normalize the input values.
+04/05/26, 10:02 pm - Ayush: Here is a summary of the key definitions for the viva.
+04/05/26, 10:50 pm - Aditi: Has the professor shared the lecture slides for neural networks yet?
+04/05/26, 10:52 pm - Ayush: Hey Aditi, about your question on yet: I solved it. You just need to use the standard derivative formula.
+04/05/26, 11:01 pm - Aditi: Can anyone explain how to solve question 2 from the Unit 4 practice sheet?
+04/05/26, 11:05 pm - Ayush: Hey Aditi, about your question on sheet: I solved it. You just need to use the standard derivative formula.
+05/05/26, 10:44 am - Aditi: Can anyone share the link to join the classroom?
+05/05/26, 10:51 am - Ayush: Hey Aditi, about your question on classroom: I solved it. You just need to use the standard derivative formula.
+05/05/26, 11:13 am - Rohan: I can help with the practical setup after lunch if anyone is stuck.
+05/05/26, 11:47 am - Rohan: Here is the lecture link for today's class: meet.google.com/abc-defg-hij
+05/05/26, 11:51 am - Ayush: I will host a local zoom session tonight at 8 PM to revise the database topics.
+05/05/26, 12:04 pm - Aditi: Can anyone share the link to join the classroom?
+05/05/26, 12:07 pm - Ayush: Hey Aditi, about your question on classroom: I solved it. You just need to use the standard derivative formula.
+05/05/26, 1:42 pm - Ayush: Let's cover the neural network architecture today. It's a guaranteed 10-mark question.
+05/05/26, 4:25 pm - Rohan: Here are the marks for the internal assessment. Check your roll number.
+05/05/26, 5:26 pm - Aditi: I am confused about the recursive relation in chapter 3. Can someone help?
+05/05/26, 5:29 pm - Ayush: Hey Aditi, about your question on help: I solved it. You just need to use the standard derivative formula.
+05/05/26, 8:00 pm - Kunal: Hey, when is the syllabus going to be completed? I am struggling.
+05/05/26, 9:10 pm - Ayush: The exam syllabus covers Chapters 1 to 5. Make sure to study the proofs.
+05/05/26, 10:00 pm - Rohan: Here are the marks for the internal assessment. Check your roll number.
+06/05/26, 9:35 am - Kunal: Bro, who is copying the assignment? Please send me your sheets.
+06/05/26, 10:53 am - Rohan: Did anyone watch the new movie? It's amazing.
+06/05/26, 12:15 pm - Pooja: I will join.
+06/05/26, 12:33 pm - Ayush: The professor said Unit 2 is extremely important for the final paper.
+06/05/26, 12:47 pm - Rohan: Bhai, anyone going to the college canteen right now? I'm starving.
+06/05/26, 2:02 pm - Pooja: Good night guys.
+06/05/26, 2:27 pm - Ayush: No problem, glad to help! Let me know if you face any more issues.
+06/05/26, 2:27 pm - Ayush: No problem, glad to help! Let me know if you face any more issues.
+06/05/26, 2:42 pm - Rohan: The submission deadline has been updated to next Monday. Check the portal.
+06/05/26, 4:41 pm - Kunal: Bro, who is copying the assignment? Please send me your sheets.
+06/05/26, 4:59 pm - Rohan: Let's take a break, this syllabus is way too heavy.
+06/05/26, 7:08 pm - Ayush: I will host a local zoom session tonight at 8 PM to revise the database topics.
+06/05/26, 7:21 pm - Rohan: The submission deadline has been updated to next Monday. Check the portal.
+06/05/26, 9:08 pm - Aditi: Can anyone share the link to join the classroom?
+06/05/26, 9:14 pm - Ayush: Hey Aditi, about your question on classroom: I solved it. You just need to use the standard derivative formula.
+06/05/26, 9:23 pm - Ayush: Yes, the lecture slide 14 explains this algorithm step-by-step.
+07/05/26, 8:05 am - Rohan: I can help with the practical setup after lunch if anyone is stuck.
+07/05/26, 9:45 am - Kunal: Bro, let's play Valorant tonight. Padhai can wait, chill.
+07/05/26, 9:48 am - Rohan: Count me in bhai! I'll join the lobby by 9:30 PM.
+07/05/26, 10:56 am - Ayush: Guys, here are my handwritten notes for Unit 3. Let me know if you need help.
+07/05/26, 12:28 pm - Ayush: The exam syllabus covers Chapters 1 to 5. Make sure to study the proofs.
+07/05/26, 12:31 pm - Pooja: Thanks Ayush!
+07/05/26, 12:49 pm - Ayush: The assignment submission portal is now active on the university website.
+07/05/26, 1:04 pm - Kunal: Bro, let's play Valorant tonight. Padhai can wait, chill.
+07/05/26, 1:09 pm - Rohan: Count me in bhai! I'll join the lobby by 9:30 PM.
+07/05/26, 2:03 pm - Rohan: Here are the marks for the internal assessment. Check your roll number.
+07/05/26, 3:20 pm - Aditi: Is there a lecture scheduled for today or is it a holiday?
+07/05/26, 3:23 pm - Ayush: Hey Aditi, about your question on holiday: I solved it. You just need to use the standard derivative formula.
+07/05/26, 4:24 pm - Ayush: I will host a local zoom session tonight at 8 PM to revise the database topics.
+07/05/26, 6:45 pm - Ayush: I will host a local zoom session tonight at 8 PM to revise the database topics.
+07/05/26, 7:52 pm - Aditi: Thanks for the notes, Ayush. This is extremely helpful.
+07/05/26, 7:58 pm - Ayush: Hey Aditi, about your question on helpful.: I solved it. You just need to use the standard derivative formula.
+07/05/26, 8:26 pm - Ayush: Here is a summary of the key definitions for the viva.
+08/05/26, 8:16 am - Ayush: I will host a local zoom session tonight at 8 PM to revise the database topics.
+08/05/26, 8:33 am - Ayush: Yes, the lecture slide 14 explains this algorithm step-by-step.
+08/05/26, 9:58 am - Ayush: Guys, here are my handwritten notes for Unit 3. Let me know if you need help.
+08/05/26, 11:32 am - Aditi: Does anyone have the textbook PDF for the database system course?
+08/05/26, 11:40 am - Ayush: Hey Aditi, about your question on course: I solved it. You just need to use the standard derivative formula.
+08/05/26, 11:47 am - Rohan: Here is the PDF for the unit 1 reference material.
+08/05/26, 12:31 pm - Kunal: Lol, I haven't even opened the book yet. I'm going to fail so bad.
+08/05/26, 2:53 pm - Rohan: Here is the PDF for the unit 1 reference material.
+08/05/26, 3:05 pm - Ayush: For the project presentation, we should focus on the system block diagram.
+08/05/26, 4:08 pm - Rohan: Bhai, anyone going to the college canteen right now? I'm starving.
+08/05/26, 4:12 pm - Ayush: I have uploaded the laboratory viva questions sheet on the shared drive.
+08/05/26, 5:33 pm - Aditi: When is the final submission date for the laboratory report?
+08/05/26, 5:40 pm - Ayush: Hey Aditi, about your question on report: I solved it. You just need to use the standard derivative formula.
+08/05/26, 5:43 pm - Ayush: Don't worry, the exam scheduling is verified. It starts at 10 AM on Monday.
+08/05/26, 6:17 pm - Kunal: Wait, we had a submission today? Omg I totally forgot!
+08/05/26, 8:45 pm - Ayush: For the project presentation, we should focus on the system block diagram.
+08/05/26, 9:00 pm - Ayush: For the project presentation, we should focus on the system block diagram.
+08/05/26, 10:18 pm - Ayush: The assignment submission portal is now active on the university website.
+09/05/26, 8:12 am - Aditi: Is there a lecture scheduled for today or is it a holiday?
+09/05/26, 8:17 am - Ayush: Hey Aditi, about your question on holiday: I solved it. You just need to use the standard derivative formula.
+09/05/26, 10:06 am - Aditi: Thanks for the notes, Ayush. This is extremely helpful.
+09/05/26, 10:08 am - Ayush: Hey Aditi, about your question on helpful.: I solved it. You just need to use the standard derivative formula.
+09/05/26, 1:04 pm - Rohan: Haha true, that lecture was so boring I almost fell asleep.
+09/05/26, 2:44 pm - Ayush: The professor said Unit 2 is extremely important for the final paper.
+09/05/26, 3:04 pm - Kunal: Yaar, let's skip the next lecture and hang out at the cafe.
+09/05/26, 3:45 pm - Rohan: The exam syllabus was trimmed. Chapter 5 is no longer included.
+09/05/26, 4:20 pm - Ayush: Yes, the lecture slide 14 explains this algorithm step-by-step.
+09/05/26, 4:21 pm - Ayush: Yes, that formula is correct! Just make sure to normalize the input values.
+09/05/26, 5:39 pm - Aditi: Thanks for the notes, Ayush. This is extremely helpful.
+09/05/26, 5:42 pm - Ayush: Hey Aditi, about your question on helpful.: I solved it. You just need to use the standard derivative formula.
+09/05/26, 5:58 pm - Pooja: Yes, correct.
+09/05/26, 8:28 pm - Aditi: When is the final submission date for the laboratory report?
+09/05/26, 8:36 pm - Ayush: Hey Aditi, about your question on report: I solved it. You just need to use the standard derivative formula.
+09/05/26, 10:28 pm - Ayush: The exam syllabus covers Chapters 1 to 5. Make sure to study the proofs.
+09/05/26, 10:55 pm - Pooja: Thanks Ayush!
+10/05/26, 9:17 am - Kunal: Let's just ask Ayush to explain everything in 10 minutes before the paper.
+10/05/26, 9:24 am - Rohan: The submission deadline has been updated to next Monday. Check the portal.
+10/05/26, 10:47 am - Aditi: Can anyone share the link to join the classroom?
+10/05/26, 10:52 am - Ayush: Hey Aditi, about your question on classroom: I solved it. You just need to use the standard derivative formula.
+10/05/26, 11:18 am - Rohan: Let's take a break, this syllabus is way too heavy.
+10/05/26, 2:41 pm - Ayush: Let's cover the neural network architecture today. It's a guaranteed 10-mark question.
+10/05/26, 3:39 pm - Rohan: Here is the lecture link for today's class: meet.google.com/abc-defg-hij
+10/05/26, 4:21 pm - Kunal: Hahaha, that meme about the professor is hilarious!
+10/05/26, 4:37 pm - Ayush: No problem, glad to help! Let me know if you face any more issues.
+10/05/26, 5:15 pm - Rohan: Let's create a shared folder to compile all our project presentations.
+10/05/26, 6:56 pm - Kunal: Hey, when is the syllabus going to be completed? I am struggling.
+10/05/26, 7:32 pm - Pooja: Good morning everyone!
+10/05/26, 7:57 pm - Pooja: Yes, I will submit it.
+10/05/26, 8:14 pm - Rohan: Let's meet up in the library before the lecture.
+10/05/26, 9:27 pm - Ayush: The professor said Unit 2 is extremely important for the final paper.
+10/05/26, 11:40 pm - Ayush: Don't worry, the exam scheduling is verified. It starts at 10 AM on Monday.
+10/05/26, 11:55 pm - Ayush: For the project presentation, we should focus on the system block diagram.
+11/05/26, 9:04 am - Rohan: I can help with the practical setup after lunch if anyone is stuck.
+11/05/26, 9:24 am - Pooja: Yes, correct.
+11/05/26, 11:02 am - Pooja: Got it, thanks.
+11/05/26, 11:20 am - Aditi: Does anyone have the textbook PDF for the database system course?
+11/05/26, 11:28 am - Ayush: Hey Aditi, about your question on course: I solved it. You just need to use the standard derivative formula.
+11/05/26, 12:16 pm - Kunal: Wait, we had a submission today? Omg I totally forgot!
+11/05/26, 12:59 pm - Ayush: The assignment submission portal is now active on the university website.
+11/05/26, 2:16 pm - Pooja: Ok, noted.
+11/05/26, 2:30 pm - Aditi: Has the professor shared the lecture slides for neural networks yet?
+11/05/26, 2:37 pm - Ayush: Hey Aditi, about your question on yet: I solved it. You just need to use the standard derivative formula.
+11/05/26, 4:40 pm - Ayush: No problem, glad to help! Let me know if you face any more issues.
+11/05/26, 5:54 pm - Ayush: I will host a local zoom session tonight at 8 PM to revise the database topics.
+11/05/26, 6:06 pm - Rohan: Let's plan a trip after these exams are finally over.
+11/05/26, 7:14 pm - Rohan: Here is the lecture link for today's class: meet.google.com/abc-defg-hij
+11/05/26, 10:48 pm - Rohan: Let's take a break, this syllabus is way too heavy.
+11/05/26, 10:53 pm - Rohan: I just finished writing the lab practical code. I'll share the GitHub link.
+11/05/26, 11:50 pm - Ayush: Let's cover the neural network architecture today. It's a guaranteed 10-mark question.
+12/05/26, 1:28 am - Ayush: Yes, that formula is correct! Just make sure to normalize the input values.
+12/05/26, 2:24 am - Kunal: Yaar, this subject is so dry. I can't study this theoretical stuff.
+12/05/26, 4:54 am - Kunal: Chill guys, we have plenty of time. The exam is still 2 weeks away.
+12/05/26, 7:29 am - Rohan: I just finished writing the lab practical code. I'll share the GitHub link.
+12/05/26, 8:46 am - Ayush: Yes, the lecture slide 14 explains this algorithm step-by-step.
+12/05/26, 9:25 am - Kunal: Let's just ask Ayush to explain everything in 10 minutes before the paper.
+12/05/26, 11:24 am - Rohan: The exam syllabus was trimmed. Chapter 5 is no longer included.
+12/05/26, 12:15 pm - Pooja: Ok, thank you.
+12/05/26, 2:41 pm - Kunal: Bro, let's play Valorant tonight. Padhai can wait, chill.
+12/05/26, 2:46 pm - Rohan: Count me in bhai! I'll join the lobby by 9:30 PM.
+12/05/26, 4:32 pm - Ayush: Guys, here are my handwritten notes for Unit 3. Let me know if you need help.
+12/05/26, 5:02 pm - Rohan: Here is the PDF for the unit 1 reference material.
+12/05/26, 5:48 pm - Rohan: Let's meet up in the library before the lecture.
+12/05/26, 8:12 pm - Kunal: Bro, let's party tonight. It's Friday!
+12/05/26, 9:21 pm - Aditi: Do we need to write the code in python or C++ for the submission?
+12/05/26, 9:28 pm - Ayush: Hey Aditi, about your question on submission: I solved it. You just need to use the standard derivative formula.
+12/05/26, 10:56 pm - Ayush: I will host a local zoom session tonight at 8 PM to revise the database topics.
+13/05/26, 8:16 am - Ayush: No problem, glad to help! Let me know if you face any more issues.
+13/05/26, 9:18 am - Rohan: Here is the lecture link for today's class: meet.google.com/abc-defg-hij
+13/05/26, 11:09 am - Kunal: Canteen today? Let's eat some samosas.
+13/05/26, 12:20 pm - Kunal: Hey, when is the syllabus going to be completed? I am struggling.
+13/05/26, 12:28 pm - Pooja: Thanks Rohan.
+13/05/26, 1:02 pm - Ayush: Don't worry, the exam scheduling is verified. It starts at 10 AM on Monday.
+13/05/26, 1:12 pm - Ayush: Let's cover the neural network architecture today. It's a guaranteed 10-mark question.
+13/05/26, 1:57 pm - Ayush: Here is the PDF containing the past 5 years' question papers for our midterm.
+13/05/26, 1:59 pm - Ayush: Don't worry, the exam scheduling is verified. It starts at 10 AM on Monday.
+13/05/26, 3:37 pm - Rohan: Here is the lecture link for today's class: meet.google.com/abc-defg-hij
+13/05/26, 3:50 pm - Ayush: The assignment submission portal is now active on the university website.
+13/05/26, 4:06 pm - Kunal: Lmao, same here. Zero preparation done.
+13/05/26, 6:35 pm - Ayush: Let's cover the neural network architecture today. It's a guaranteed 10-mark question.
+13/05/26, 9:46 pm - Kunal: Chill guys, we have plenty of time. The exam is still 2 weeks away.
+13/05/26, 10:25 pm - Rohan: The submission deadline has been updated to next Monday. Check the portal.
+13/05/26, 10:29 pm - Rohan: Bhai, who has a spare charger today? Mine stopped working.
+14/05/26, 8:23 am - Rohan: I just finished writing the lab practical code. I'll share the GitHub link.
+14/05/26, 9:42 am - Aditi: Does anyone have the textbook PDF for the database system course?
+14/05/26, 9:48 am - Ayush: Hey Aditi, about your question on course: I solved it. You just need to use the standard derivative formula.
+14/05/26, 9:59 am - Aditi: Do we need to write the code in python or C++ for the submission?
+14/05/26, 10:06 am - Ayush: Hey Aditi, about your question on submission: I solved it. You just need to use the standard derivative formula.
+14/05/26, 1:07 pm - Rohan: Here are the marks for the internal assessment. Check your roll number.
+14/05/26, 1:10 pm - Rohan: Here is the PDF for the unit 1 reference material.
+14/05/26, 2:35 pm - Kunal: Hey, when is the syllabus going to be completed? I am struggling.
+14/05/26, 3:47 pm - Rohan: Let's create a shared folder to compile all our project presentations.
+14/05/26, 5:22 pm - Ayush: No problem, glad to help! Let me know if you face any more issues.
+14/05/26, 6:39 pm - Ayush: The exam syllabus covers Chapters 1 to 5. Make sure to study the proofs.
+14/05/26, 6:47 pm - Ayush: The professor said Unit 2 is extremely important for the final paper.
+14/05/26, 8:25 pm - Rohan: Here is the PDF for the unit 1 reference material.
+14/05/26, 8:41 pm - Ayush: The professor said Unit 2 is extremely important for the final paper.
+14/05/26, 8:42 pm - Rohan: The submission deadline has been updated to next Monday. Check the portal.
+14/05/26, 10:17 pm - Rohan: Bhai, anyone going to the college canteen right now? I'm starving.
+15/05/26, 9:05 am - Ayush: No problem, glad to help! Let me know if you face any more issues.
+15/05/26, 9:18 am - Kunal: Bro, who is copying the assignment? Please send me your sheets.
+15/05/26, 9:35 am - Kunal: Bro, who is copying the assignment? Please send me your sheets.
+15/05/26, 11:02 am - Kunal: Lol, I am just going to write random things in the viva.
+15/05/26, 12:02 pm - Kunal: Wait, we had a submission today? Omg I totally forgot!
+15/05/26, 12:28 pm - Aditi: I am confused about the recursive relation in chapter 3. Can someone help?
+15/05/26, 12:31 pm - Ayush: Hey Aditi, about your question on help: I solved it. You just need to use the standard derivative formula.
+15/05/26, 2:04 pm - Kunal: Lmao, same here. Zero preparation done.
+15/05/26, 3:12 pm - Rohan: I can help with the practical setup after lunch if anyone is stuck.
+15/05/26, 3:25 pm - Kunal: Chill guys, we have plenty of time. The exam is still 2 weeks away.
+15/05/26, 3:35 pm - Ayush: Yes, that formula is correct! Just make sure to normalize the input values.
+15/05/26, 6:04 pm - Ayush: The assignment submission portal is now active on the university website.
+15/05/26, 7:10 pm - Rohan: The exam syllabus was trimmed. Chapter 5 is no longer included.
+15/05/26, 7:46 pm - Ayush: Yes, the lecture slide 14 explains this algorithm step-by-step.
+15/05/26, 8:05 pm - Rohan: Did anyone watch the new movie? It's amazing.
+15/05/26, 8:13 pm - Rohan: The submission deadline has been updated to next Monday. Check the portal.
