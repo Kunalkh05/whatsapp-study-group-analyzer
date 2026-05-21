@@ -1,0 +1,33 @@
+# Python bytecode and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Streamlit specific files
+.streamlit/
+
+# Group Ghost local report exports
+group_ghost/group_ghost_output.json
+group_ghost/group_ghost_report.pdf
+group_ghost_output.json
+group_ghost_report.pdf
+group_ghost/*.html
+
+# Interactive local development files
+node_modules/
+dist/
+.vscode/
+.idea/
