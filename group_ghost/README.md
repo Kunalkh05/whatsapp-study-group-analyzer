@@ -1,8 +1,8 @@
-# Group Ghost 👻 — Study Group Intelligence Suite
+# WhatsApp Study Group Analyzer 👻 — Group Ghost
 
 🚀 **Live Secure Web App:** [https://construction-rider-lone-compressed.trycloudflare.com](https://construction-rider-lone-compressed.trycloudflare.com)
 
-Group Ghost is a production-grade, 100% local WhatsApp study group analyzer that answers the core question: **"Who actually contributes to this study group, and who just sends noise?"** 
+WhatsApp Study Group Analyzer (Group Ghost) is a production-grade, 100% local study group analyzer that answers the core question: **"Who actually contributes to this study group, and who just sends noise?"** 
 
 By processing chat exports, it evaluates each member across five distinct dimensions—Academic Signal Ratio, Sentiment Score, Topic Contribution, Response Behavior, and Noise/Meme Penalty—combining them into a single comprehensive **Contributor Score**.
 
